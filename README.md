@@ -3,6 +3,12 @@
 ### Overview
 So, after getting bored of opening the new Gmail website everytime and closing it down. I felt like creating a quick companion CLI environment Email Client for me so that I can quickly send text and html messages to friends.
 
+### Demo
+
+Step 1:
+We open the CLI envrionment.
+![alt text](Scr_1.png "Step 1")
+
 ### Requirements
 - Python Version 3.4 or above
 - Pip Version 9.0 or above
