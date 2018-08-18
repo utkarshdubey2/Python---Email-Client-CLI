@@ -6,7 +6,9 @@ So, after getting bored of opening the new Gmail website everytime and closing i
 ### Demo
 
 Step 1:
-We open the CLI envrionment.
+We open the CLI envrionment.  
+
+
 ![alt text](screenshots/rsz_scr_1.png "Step 1")
 
 ### Requirements
