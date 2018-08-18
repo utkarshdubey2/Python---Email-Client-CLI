@@ -7,7 +7,7 @@ So, after getting bored of opening the new Gmail website everytime and closing i
 
 Step 1:
 We open the CLI envrionment.
-![alt text](Scr_1.png "Step 1")
+![](screenshots/Scr_1.png =640x350)
 
 ### Requirements
 - Python Version 3.4 or above
