@@ -7,7 +7,7 @@ So, after getting bored of opening the new Gmail website everytime and closing i
 
 Step 1:
 We open the CLI envrionment.
-![](./screenshots/Scr_1.png =640x350)
+![](https://raw.githubusercontent.com/utkarshdubey2/Python---Email-Client-CLI/master/screenshots/Scr_1.png =640x350)
 
 ### Requirements
 - Python Version 3.4 or above
